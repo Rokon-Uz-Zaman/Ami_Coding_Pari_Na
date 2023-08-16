@@ -1,4 +1,4 @@
-# Ami_Coding_Pari_Na
+# To run this project on local pc 
 
 Clone the repo:
 ```bash
