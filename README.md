@@ -34,6 +34,9 @@ http://127.0.0.1:8000/
 username: admin
 password : 1234
 
+![image](https://github.com/Rokon-Uz-Zaman/Ami_Coding_Pari_Na/assets/26451679/4d62d4b6-b641-4aa8-94fc-21e7d1ff3c19)
+
+
 To test rest api
 ```bash
 http://127.0.0.1:8000/api/2023-08-16%2017:29:33/2023-08-16%2020:31:03/1
