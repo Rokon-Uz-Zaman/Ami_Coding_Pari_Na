@@ -30,9 +30,10 @@ http://127.0.0.1:8000/
 ```
 http://127.0.0.1:8000/
 ![image](https://github.com/Rokon-Uz-Zaman/Ami_Coding_Pari_Na/assets/26451679/ccd44bbe-bd3e-40d8-aa8e-56bc1df6a9de)
-
+```bash
 username: admin
 password : 1234
+```
 
 ![image](https://github.com/Rokon-Uz-Zaman/Ami_Coding_Pari_Na/assets/26451679/56b59ce0-fab1-4d2c-8e4c-40c8d4a0b9cb)
 
