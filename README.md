@@ -55,7 +55,7 @@ http://127.0.0.1:8000/api/2023-08-16%2017:29:33/2023-08-16%2020:31:03/1
 Demo video
 [Desktop Recording 40.webm](https://github.com/Rokon-Uz-Zaman/Ami_Coding_Pari_Na/assets/26451679/75350df7-6832-45e8-ba58-9169ea6a3a16)
 
-Name: A.B.M. Rokon-uz-zaman 
+Name: A.B.M. Rokon-Uz-Zaman 
 
 Mail: rkuzaman@gmail.com
 
