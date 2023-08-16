@@ -1,4 +1,4 @@
-# To run this project on local pc 
+# To run this project on local Computer 
 
 Clone the repo:
 ```bash
