@@ -1,0 +1,26 @@
+
+{% extends 'base.html'%}
+
+{% block body %}
+
+
+{% if user.is_authenticated %}
+<div>
+<form action="{% url 'section2:khoj' %}" method ="POST">
+	{% csrf_token %}
+	<label>Input Values: </label>
+	<input type="text" name="input_values"  style=" width: 60%; ">  </br></br>
+	<label> Search Value: </label>
+	<input type="text" name="search_value" style=" width: 60%; "></br></br>
+	<input type="submit" value="khoj"> </br></br>
+	<p><b> Result:  </b>{{ result }}</p>
+
+</form>
+</div>
+
+{% else %}
+<p style="text-align: center;">You aren't logged in </p>
+<p style="text-align: center;"><a href="{% url 'section1:signin' %}">Click here to login</a> </p>
+{% endif %}
+
+{% endblock body %}
