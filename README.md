@@ -2,7 +2,7 @@
 
 Clone the repo:
 ```bash
-git clone
+git clone https://github.com/Rokon-Uz-Zaman/Ami_Coding_Pari_Na.git
 cd Ami_Coding_pari_Na
 ```
 
