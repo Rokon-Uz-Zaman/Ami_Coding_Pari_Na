@@ -34,7 +34,8 @@ http://127.0.0.1:8000/
 username: admin
 password : 1234
 
-![image](https://github.com/Rokon-Uz-Zaman/Ami_Coding_Pari_Na/assets/26451679/4d62d4b6-b641-4aa8-94fc-21e7d1ff3c19)
+![image](https://github.com/Rokon-Uz-Zaman/Ami_Coding_Pari_Na/assets/26451679/56b59ce0-fab1-4d2c-8e4c-40c8d4a0b9cb)
+
 
 
 To test rest api
