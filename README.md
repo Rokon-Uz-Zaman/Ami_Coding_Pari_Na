@@ -23,15 +23,16 @@ Run project
 python manage.py runserver
 ```
 
-username: admin
-password : 1234
+
 
 ```bash
 http://127.0.0.1:8000/
 ```
 http://127.0.0.1:8000/
+![image](https://github.com/Rokon-Uz-Zaman/Ami_Coding_Pari_Na/assets/26451679/ccd44bbe-bd3e-40d8-aa8e-56bc1df6a9de)
 
-
+username: admin
+password : 1234
 
 To test rest api
 ```bash
